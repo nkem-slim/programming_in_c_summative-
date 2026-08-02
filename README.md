@@ -1,6 +1,8 @@
 # Programming in C - Guide for project
 ## Nkem Vincent Nweke
 
+# Link to YouTube Submission [Link](https://youtu.be/4najiSdrqzw)
+
 This repository contains all 5 projects submitted for the C programming summative: a smart parking system (Arduino + PCB), a Linux backup/recovery script, a library inventory manager, a unit conversion toolkit, and a multi-threaded file processor.
 
 ---
@@ -14,6 +16,9 @@ Simulated in Tinkercad, with a matching schematic and PCB layout designed in Eas
 No build step needed to test in Tinkercad — open the sketch in the Arduino IDE or paste it into a Tinkercad Arduino Uno project's code editor and run the simulation.
 
 Monitors 4 parking spaces using LEDs on pins 2–5, with entry/exit push buttons on pins 6 and 7. Parking data is stored in a dynamically allocated array of `ParkingSpace` structs, accessed via pointers, with non-blocking status updates driven by `millis()`.
+
+Link to Tinkercad [Linkk to Tinkercad](https://www.tinkercad.com/things/c1zdUPoxCkW-summativesmartparkinglotmonitoringsystem)
+Link to EasyEDA [Link to EasyEDA](https://u.easyeda.com/join?type=project&key=ff5b18865295d9bd06a880b7a9e397ad&inviter=d9e2c56e9f5549809c9daa088b858e90)
 
 ---
 
